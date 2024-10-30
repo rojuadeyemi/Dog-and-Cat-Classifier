@@ -1,0 +1,20 @@
+# Environment variables
+.venv
+
+
+# Python
+__pycache__/
+.installed.cfg
+*.log
+*.pyc
+static/uploads/
+
+# folders
+images/
+PetImages/
+model/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
