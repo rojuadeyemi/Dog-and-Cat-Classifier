@@ -153,7 +153,7 @@ set FLASK_DEBUG=1
 flask run
 ```
 
-Then open your web browser and navigate to `<http://127.0.0.1:5000/>` to access the aplication.
+Then open your web browser and navigate to `<http://127.0.0.1:5000/>` to access the application.
 
 
 ![Home Page](static/screenshot/home.png)
